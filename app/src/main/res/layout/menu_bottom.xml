@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="@color/nepal_beige"
+    android:layout_gravity="bottom"
+    android:padding="10dp">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/nepal_beige"
+
+        android:text="Cerrar Sesión"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:fontFamily="@font/comfortaa_light"
+        android:textColor="@color/white"/>
+</LinearLayout>

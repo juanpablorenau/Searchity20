@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Searchity 2.0"

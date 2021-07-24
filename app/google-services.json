@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "343401097536",
+    "firebase_url": "https://searchity-2021-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "searchity-2021",
+    "storage_bucket": "searchity-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343401097536:android:1e58b0649e54acf7e8b2a5",
+        "android_client_info": {
+          "package_name": "com.example.searchity12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343401097536-voegv7n0oqkebuk60bvait41mnne1tdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmdGdEOfrYxHUEn4EbxGSc9m1LPgg1IV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343401097536-voegv7n0oqkebuk60bvait41mnne1tdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343401097536:android:4e98e567ae793bfde8b2a5",
+        "android_client_info": {
+          "package_name": "com.example.searchity20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343401097536-voegv7n0oqkebuk60bvait41mnne1tdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmdGdEOfrYxHUEn4EbxGSc9m1LPgg1IV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343401097536-voegv7n0oqkebuk60bvait41mnne1tdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
